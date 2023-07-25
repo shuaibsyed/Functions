@@ -1,2 +1,2 @@
 # Functions
-This was a simple introduction project to C which had use implement very basic functions and test them 
+This introductory C project involved implementing and testing basic functions to build a solid foundation in the language.
